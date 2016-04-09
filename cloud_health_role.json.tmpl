@@ -1,0 +1,17 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Effect": "Allow",
+      "Action": "sts:AssumeRole",
+      "Principal": {
+        "AWS": "arn:aws:iam::${cloud_health_external_account_id}:root"
+      },
+      "Condition": {
+        "StringEquals": {
+          "sts:ExternalId": "${cloud_health_external_id}"
+        }
+      }
+    }
+  ]
+}
