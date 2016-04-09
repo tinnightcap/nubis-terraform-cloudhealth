@@ -1,3 +1,8 @@
+provider "aws" {
+  profile = "${var.aws_profile}"
+  region  = "${var.aws_region}"
+}
+
 resource "aws_iam_role" "cloud_health_role" {
     name = "cloud_health_role"
     path = "/"

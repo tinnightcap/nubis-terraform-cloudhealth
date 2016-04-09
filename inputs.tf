@@ -1,3 +1,11 @@
+variable "aws_region" {
+  description = "AWS region to deploy to"
+}
+
+variable "aws_profile" {
+  description = "Name of the AWS profile to grab credentials from"
+}
+
 variable "cloud_health_external_account_id" {
   description = "External account ID where Cloud Health IAM user is connecting from"
   default = "454464851268"
