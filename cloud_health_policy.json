@@ -59,17 +59,6 @@
       "Resource": "*"
     },
     {
-      "Effect": "Allow",
-      "Action": [
-        "s3:Get*",
-        "s3:List*"
-      ],
-      "Resource": [
-        "arn:aws:s3:::${var.billing_bucket_name}",
-        "arn:aws:s3:::${var.billing_bucket_name}/*"
-      ]
-    },
-    {
       "Effect": "Deny",
       "Action": [
         "autoscaling:DescribeLaunchConfigurations",
