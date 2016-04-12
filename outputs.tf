@@ -3,5 +3,5 @@ output "assume_role_arn" {
 }
 
 output "assume_role_external_id" {
-  value = "${aws_iam_role.cloud_health_role.unique_id}"
+  value = "${var.cloud_health_external_id}"
 }

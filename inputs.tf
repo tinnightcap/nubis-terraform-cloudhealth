@@ -13,10 +13,5 @@ variable "cloud_health_external_account_id" {
 
 variable "cloud_health_external_id" {
   description = "External ID to be used with Cloud Health IAM Role assumption"
-  default     = "bH4vrIXUcQ2i2Z6soruijiIN"
-}
-
-variable "billing_bucket_name" {
-  description = "Name of the billing bucket where billing data will be sent"
-  default     = "mozilla-programmatic-billing.s3-website-us-west-1.amazonaws.com"
+  default     = "938a62c1-808a-4b14-81e1-1cabf19b239d"
 }
