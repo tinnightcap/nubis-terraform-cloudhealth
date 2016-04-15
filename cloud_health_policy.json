@@ -33,7 +33,7 @@
         "elasticmapreduce:List*",
         "iam:List*",
         "iam:Get*",
-        "lambda:List*,
+        "lambda:List*",
         "redshift:Describe*",
         "route53:Get*",
         "route53:List*",
