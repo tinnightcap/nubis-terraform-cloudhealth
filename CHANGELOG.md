@@ -3,6 +3,7 @@
 ## [v1.1.0](https://github.com/nubisproject/nubis-terraform-cloudhealth/tree/v1.1.0) (2016-04-18)
 **Merged pull requests:**
 
+- Update CHANGELOG for v1.1.0 release [\#4](https://github.com/nubisproject/nubis-terraform-cloudhealth/pull/4) ([tinnightcap](https://github.com/tinnightcap))
 - Fix typo [\#3](https://github.com/nubisproject/nubis-terraform-cloudhealth/pull/3) ([tinnightcap](https://github.com/tinnightcap))
 - generalize lambda:List permissions [\#2](https://github.com/nubisproject/nubis-terraform-cloudhealth/pull/2) ([RichardWeiss](https://github.com/RichardWeiss))
 - Cleanups and moved JSON payloads to their own files. [\#1](https://github.com/nubisproject/nubis-terraform-cloudhealth/pull/1) ([gozer](https://github.com/gozer))
