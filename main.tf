@@ -3,7 +3,7 @@ provider "aws" {
   region  = "${var.aws_region}"
 }
 
-resource "template_file" "cloud_health_role" {
+data "template_file" "cloud_health_role" {
   template = "${file("${path.module}/cloud_health_role.json.tmpl")}"
 
   vars {
@@ -15,7 +15,7 @@ resource "template_file" "cloud_health_role" {
 resource "aws_iam_role" "cloud_health_role" {
   name               = "cloud_health_role"
   path               = "/"
-  assume_role_policy = "${template_file.cloud_health_role.rendered}"
+  assume_role_policy = "${data.template_file.cloud_health_role.rendered}"
 }
 
 resource "aws_iam_policy" "cloud_health_policy" {
