@@ -70,7 +70,6 @@
       "Action": [
         "autoscaling:DescribeLaunchConfigurations",
         "ec2:DescribeInstanceAttribute",
-        "cloudformation:DescribeStacks",
         "sdb:Select"
       ],
       "Resource": [
