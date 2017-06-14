@@ -9,7 +9,6 @@
         "autoscaling:Describe*",
         "cloudformation:ListStacks",
         "cloudformation:ListStackResources",
-        "cloudformation:DescribeStacks",
         "cloudformation:DescribeStackEvents",
         "cloudformation:DescribeStackResources",
         "cloudformation:GetTemplate",
@@ -70,6 +69,7 @@
       "Action": [
         "autoscaling:DescribeLaunchConfigurations",
         "ec2:DescribeInstanceAttribute",
+        "cloudformation:DescribeStacks",
         "sdb:Select"
       ],
       "Resource": [
