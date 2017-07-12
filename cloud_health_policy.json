@@ -17,6 +17,7 @@
         "cloudwatch:Describe*",
         "cloudwatch:Get*",
         "cloudwatch:List*",
+        "cur:DescribeReportDefinitions",
         "dynamodb:DescribeTable",
         "dynamodb:ListTables",
         "ec2:Describe*",
