@@ -1,14 +1,36 @@
 # Change Log
 
-## [v1.3.0](https://github.com/nubisproject/nubis-terraform-cloudhealth/tree/v1.3.0) (2016-12-20)
+## [v2.0.0](https://github.com/nubisproject/nubis-terraform-cloudhealth/tree/v2.0.0) (2017-10-05)
+[Full Changelog](https://github.com/nubisproject/nubis-terraform-cloudhealth/compare/v1.3.0...v2.0.0)
+
+**Closed issues:**
+
+- Allow cloudhealth to check cur reports [\#25](https://github.com/nubisproject/nubis-terraform-cloudhealth/issues/25)
+- Output role name [\#22](https://github.com/nubisproject/nubis-terraform-cloudhealth/issues/22)
+- Fix clashing permissions [\#18](https://github.com/nubisproject/nubis-terraform-cloudhealth/issues/18)
+- Add new IAM permission [\#17](https://github.com/nubisproject/nubis-terraform-cloudhealth/issues/17)
+- Tag v1.4.0 release [\#15](https://github.com/nubisproject/nubis-terraform-cloudhealth/issues/15)
+
+**Merged pull requests:**
+
+- Adding describe report definitions permission [\#24](https://github.com/nubisproject/nubis-terraform-cloudhealth/pull/24) ([limed](https://github.com/limed))
+- Added additional output [\#23](https://github.com/nubisproject/nubis-terraform-cloudhealth/pull/23) ([limed](https://github.com/limed))
+- Revert change [\#21](https://github.com/nubisproject/nubis-terraform-cloudhealth/pull/21) ([limed](https://github.com/limed))
+- Remove cloudformation:DescribeStacks from deny section [\#20](https://github.com/nubisproject/nubis-terraform-cloudhealth/pull/20) ([limed](https://github.com/limed))
+- Add additional IAM permission for new supported cloudhealth feature [\#19](https://github.com/nubisproject/nubis-terraform-cloudhealth/pull/19) ([limed](https://github.com/limed))
+- Terraform 0.8 Upgrade [\#16](https://github.com/nubisproject/nubis-terraform-cloudhealth/pull/16) ([gozer](https://github.com/gozer))
+
+## [v1.3.0](https://github.com/nubisproject/nubis-terraform-cloudhealth/tree/v1.3.0) (2016-12-21)
 [Full Changelog](https://github.com/nubisproject/nubis-terraform-cloudhealth/compare/v1.2.2...v1.3.0)
 
 **Closed issues:**
 
 - Tag v1.2.3 release [\#12](https://github.com/nubisproject/nubis-terraform-cloudhealth/issues/12)
+- Tag v1.3.0 release [\#13](https://github.com/nubisproject/nubis-terraform-cloudhealth/issues/13)
 
 **Merged pull requests:**
 
+- Update CHANGELOG for v1.3.0 release [\#14](https://github.com/nubisproject/nubis-terraform-cloudhealth/pull/14) ([tinnightcap](https://github.com/tinnightcap))
 - Update CHANGELOG for v1.2.2 release [\#11](https://github.com/nubisproject/nubis-terraform-cloudhealth/pull/11) ([tinnightcap](https://github.com/tinnightcap))
 
 ## [v1.2.2](https://github.com/nubisproject/nubis-terraform-cloudhealth/tree/v1.2.2) (2016-08-02)
