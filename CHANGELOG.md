@@ -10,9 +10,12 @@
 - Fix clashing permissions [\#18](https://github.com/nubisproject/nubis-terraform-cloudhealth/issues/18)
 - Add new IAM permission [\#17](https://github.com/nubisproject/nubis-terraform-cloudhealth/issues/17)
 - Tag v1.4.0 release [\#15](https://github.com/nubisproject/nubis-terraform-cloudhealth/issues/15)
+- Tag v2.0.0 release [\#27](https://github.com/nubisproject/nubis-terraform-cloudhealth/issues/27)
 
 **Merged pull requests:**
 
+- Merge v2.0.0 release into develop. \[skip ci\] [\#29](https://github.com/nubisproject/nubis-terraform-cloudhealth/pull/29) ([tinnightcap](https://github.com/tinnightcap))
+- Update CHANGELOG for v2.0.0 release \[skip ci\] [\#28](https://github.com/nubisproject/nubis-terraform-cloudhealth/pull/28) ([tinnightcap](https://github.com/tinnightcap))
 - Adding describe report definitions permission [\#24](https://github.com/nubisproject/nubis-terraform-cloudhealth/pull/24) ([limed](https://github.com/limed))
 - Added additional output [\#23](https://github.com/nubisproject/nubis-terraform-cloudhealth/pull/23) ([limed](https://github.com/limed))
 - Revert change [\#21](https://github.com/nubisproject/nubis-terraform-cloudhealth/pull/21) ([limed](https://github.com/limed))
