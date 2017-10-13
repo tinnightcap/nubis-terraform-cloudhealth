@@ -1,5 +1,12 @@
 # Change Log
 
+## [v2.0.1](https://github.com/nubisproject/nubis-terraform-cloudhealth/tree/v2.0.1) (2017-10-13)
+[Full Changelog](https://github.com/nubisproject/nubis-terraform-cloudhealth/compare/v2.0.0...v2.0.1)
+
+**Merged pull requests:**
+
+- Updated cloudhealth policy [\#33](https://github.com/nubisproject/nubis-terraform-cloudhealth/pull/33) ([limed](https://github.com/limed))
+
 ## [v2.0.0](https://github.com/nubisproject/nubis-terraform-cloudhealth/tree/v2.0.0) (2017-10-05)
 [Full Changelog](https://github.com/nubisproject/nubis-terraform-cloudhealth/compare/v1.3.0...v2.0.0)
 
@@ -10,10 +17,13 @@
 - Fix clashing permissions [\#18](https://github.com/nubisproject/nubis-terraform-cloudhealth/issues/18)
 - Add new IAM permission [\#17](https://github.com/nubisproject/nubis-terraform-cloudhealth/issues/17)
 - Tag v1.4.0 release [\#15](https://github.com/nubisproject/nubis-terraform-cloudhealth/issues/15)
+- Tag v2.0.0 release [\#30](https://github.com/nubisproject/nubis-terraform-cloudhealth/issues/30)
 - Tag v2.0.0 release [\#27](https://github.com/nubisproject/nubis-terraform-cloudhealth/issues/27)
 
 **Merged pull requests:**
 
+- Merge v2.0.0 release into develop. \[skip ci\] [\#32](https://github.com/nubisproject/nubis-terraform-cloudhealth/pull/32) ([tinnightcap](https://github.com/tinnightcap))
+- Update CHANGELOG for v2.0.0 release \[skip ci\] [\#31](https://github.com/nubisproject/nubis-terraform-cloudhealth/pull/31) ([tinnightcap](https://github.com/tinnightcap))
 - Merge v2.0.0 release into develop. \[skip ci\] [\#29](https://github.com/nubisproject/nubis-terraform-cloudhealth/pull/29) ([tinnightcap](https://github.com/tinnightcap))
 - Update CHANGELOG for v2.0.0 release \[skip ci\] [\#28](https://github.com/nubisproject/nubis-terraform-cloudhealth/pull/28) ([tinnightcap](https://github.com/tinnightcap))
 - Adding describe report definitions permission [\#24](https://github.com/nubisproject/nubis-terraform-cloudhealth/pull/24) ([limed](https://github.com/limed))
