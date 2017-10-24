@@ -1,10 +1,23 @@
 # Change Log
 
+## [v2.0.2](https://github.com/nubisproject/nubis-terraform-cloudhealth/tree/v2.0.2) (2017-10-24)
+[Full Changelog](https://github.com/nubisproject/nubis-terraform-cloudhealth/compare/v2.0.1...v2.0.2)
+
+**Implemented enhancements:**
+
+- Update IAM policy [\#26](https://github.com/nubisproject/nubis-terraform-cloudhealth/issues/26)
+
 ## [v2.0.1](https://github.com/nubisproject/nubis-terraform-cloudhealth/tree/v2.0.1) (2017-10-13)
 [Full Changelog](https://github.com/nubisproject/nubis-terraform-cloudhealth/compare/v2.0.0...v2.0.1)
 
+**Closed issues:**
+
+- Tag v2.0.1 release [\#34](https://github.com/nubisproject/nubis-terraform-cloudhealth/issues/34)
+
 **Merged pull requests:**
 
+- Merge v2.0.1 release into develop. \[skip ci\] [\#36](https://github.com/nubisproject/nubis-terraform-cloudhealth/pull/36) ([tinnightcap](https://github.com/tinnightcap))
+- Update CHANGELOG for v2.0.1 release \[skip ci\] [\#35](https://github.com/nubisproject/nubis-terraform-cloudhealth/pull/35) ([tinnightcap](https://github.com/tinnightcap))
 - Updated cloudhealth policy [\#33](https://github.com/nubisproject/nubis-terraform-cloudhealth/pull/33) ([limed](https://github.com/limed))
 
 ## [v2.0.0](https://github.com/nubisproject/nubis-terraform-cloudhealth/tree/v2.0.0) (2017-10-05)
