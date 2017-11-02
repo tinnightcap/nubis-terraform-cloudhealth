@@ -7,6 +7,15 @@
 
 - Update IAM policy [\#26](https://github.com/nubisproject/nubis-terraform-cloudhealth/issues/26)
 
+**Closed issues:**
+
+- Tag v2.0.2 release [\#37](https://github.com/nubisproject/nubis-terraform-cloudhealth/issues/37)
+
+**Merged pull requests:**
+
+- Merge v2.0.2 release into develop. \[skip ci\] [\#39](https://github.com/nubisproject/nubis-terraform-cloudhealth/pull/39) ([tinnightcap](https://github.com/tinnightcap))
+- Update CHANGELOG for v2.0.2 release \[skip ci\] [\#38](https://github.com/nubisproject/nubis-terraform-cloudhealth/pull/38) ([tinnightcap](https://github.com/tinnightcap))
+
 ## [v2.0.1](https://github.com/nubisproject/nubis-terraform-cloudhealth/tree/v2.0.1) (2017-10-13)
 [Full Changelog](https://github.com/nubisproject/nubis-terraform-cloudhealth/compare/v2.0.0...v2.0.1)
 
