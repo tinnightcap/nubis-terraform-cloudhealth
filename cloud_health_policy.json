@@ -16,6 +16,7 @@
         "cloudwatch:Describe*",
         "cloudwatch:Get*",
         "cloudwatch:List*",
+        "cloudtrail:ListTags",
         "cur:DescribeReportDefinitions",
         "dynamodb:List*",
         "dynamodb:DescribeTable",
