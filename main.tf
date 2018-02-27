@@ -26,7 +26,7 @@ resource "aws_iam_policy" "cloud_health_policy" {
 }
 
 resource "aws_iam_policy_attachment" "cloud_health_attachment" {
-    name = "cloud_health_attachment"
-    roles = ["${aws_iam_role.cloud_health_role.name}"]
-    policy_arn = "${aws_iam_policy.cloud_health_policy.arn}"
+  name       = "cloud_health_attachment"
+  roles      = ["${aws_iam_role.cloud_health_role.name}"]
+  policy_arn = "${aws_iam_policy.cloud_health_policy.arn}"
 }
