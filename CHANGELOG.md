@@ -1,5 +1,35 @@
 # Change Log
 
+## [v2.3.0](https://github.com/nubisproject/nubis-terraform-cloudhealth/tree/v2.3.0) (2018-08-01)
+[Full Changelog](https://github.com/nubisproject/nubis-terraform-cloudhealth/compare/v2.0.3...v2.3.0)
+
+**Closed issues:**
+
+- Tag v2.0.3 release [\#40](https://github.com/nubisproject/nubis-terraform-cloudhealth/issues/40)
+- Tag v2.3.0 release [\#61](https://github.com/nubisproject/nubis-terraform-cloudhealth/issues/61)
+- Tag v2.3.0 release [\#58](https://github.com/nubisproject/nubis-terraform-cloudhealth/issues/58)
+- Tag v2.3.0 release [\#55](https://github.com/nubisproject/nubis-terraform-cloudhealth/issues/55)
+- Tag v2.3.0 release [\#52](https://github.com/nubisproject/nubis-terraform-cloudhealth/issues/52)
+- Tag v2.3.0 release [\#49](https://github.com/nubisproject/nubis-terraform-cloudhealth/issues/49)
+- Tag v2.3.0 release [\#46](https://github.com/nubisproject/nubis-terraform-cloudhealth/issues/46)
+
+**Merged pull requests:**
+
+- Update CHANGELOG for v2.3.0 release \[skip ci\] [\#63](https://github.com/nubisproject/nubis-terraform-cloudhealth/pull/63) ([nubis-automation](https://github.com/nubis-automation))
+- Update CHANGELOG for v2.3.0 release \[skip ci\] [\#62](https://github.com/nubisproject/nubis-terraform-cloudhealth/pull/62) ([nubis-automation](https://github.com/nubis-automation))
+- Update CHANGELOG for v2.3.0 release \[skip ci\] [\#60](https://github.com/nubisproject/nubis-terraform-cloudhealth/pull/60) ([nubis-automation](https://github.com/nubis-automation))
+- Update CHANGELOG for v2.3.0 release \[skip ci\] [\#59](https://github.com/nubisproject/nubis-terraform-cloudhealth/pull/59) ([nubis-automation](https://github.com/nubis-automation))
+- Update CHANGELOG for v2.3.0 release \[skip ci\] [\#57](https://github.com/nubisproject/nubis-terraform-cloudhealth/pull/57) ([nubis-automation](https://github.com/nubis-automation))
+- Update CHANGELOG for v2.3.0 release \[skip ci\] [\#56](https://github.com/nubisproject/nubis-terraform-cloudhealth/pull/56) ([nubis-automation](https://github.com/nubis-automation))
+- Update CHANGELOG for v2.3.0 release \[skip ci\] [\#54](https://github.com/nubisproject/nubis-terraform-cloudhealth/pull/54) ([nubis-automation](https://github.com/nubis-automation))
+- Update CHANGELOG for v2.3.0 release \[skip ci\] [\#53](https://github.com/nubisproject/nubis-terraform-cloudhealth/pull/53) ([nubis-automation](https://github.com/nubis-automation))
+- Update CHANGELOG for v2.3.0 release \[skip ci\] [\#51](https://github.com/nubisproject/nubis-terraform-cloudhealth/pull/51) ([nubis-automation](https://github.com/nubis-automation))
+- Update CHANGELOG for v2.3.0 release \[skip ci\] [\#50](https://github.com/nubisproject/nubis-terraform-cloudhealth/pull/50) ([nubis-automation](https://github.com/nubis-automation))
+- Update CHANGELOG for v2.3.0 release \[skip ci\] [\#48](https://github.com/nubisproject/nubis-terraform-cloudhealth/pull/48) ([nubis-automation](https://github.com/nubis-automation))
+- Update CHANGELOG for v2.3.0 release \[skip ci\] [\#47](https://github.com/nubisproject/nubis-terraform-cloudhealth/pull/47) ([nubis-automation](https://github.com/nubis-automation))
+- Add travis check and lint fixups [\#45](https://github.com/nubisproject/nubis-terraform-cloudhealth/pull/45) ([tinnightcap](https://github.com/tinnightcap))
+- Add cloudtrail list tags [\#44](https://github.com/nubisproject/nubis-terraform-cloudhealth/pull/44) ([limed](https://github.com/limed))
+
 ## [v2.3.0](https://github.com/nubisproject/nubis-terraform-cloudhealth/tree/v2.3.0) (2018-07-27)
 [Full Changelog](https://github.com/nubisproject/nubis-terraform-cloudhealth/compare/v2.0.3...v2.3.0)
 
